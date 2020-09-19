@@ -15,7 +15,7 @@
 
 ## Business Activities:
 
-* The company has a two-sided market business model
+The company has a two-sided market business model:
 
 The first side consists of algorithm-developer members who develop and test for free, focusing on algorithm development for factors that can be added to Quantopian's offerings to institutional investors.All members can compete against other members in a series of contests called the "Quantopian Open."Anyone can join the site and (optionally) enter the contests: no particular educational qualification nor work experience are required. Quantopian provides them with free data sources and tools, largely built in the Python programming language.
 
