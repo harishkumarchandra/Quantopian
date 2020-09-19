@@ -2,28 +2,26 @@
 
 ## Overview and Origin
 
-* Name of company
-Quantopian
+* Name of company is Quantopian
 
-* When was the company incorporated?
-2011
+* It was the company incorporated 2011
 
-* Who are the founders of the company?
-John Fawcett, Jean Bredeche
+* The founders of the company are John Fawcett and Jean Bredeche
 
-* How did the idea for the company (or project) come about?
+* The business model capitalizes on a trend jokingly dubbed "the latest DIY craze" by the Wall Street Journal.
 
-* How is the company funded? How much funding have they received?
+* Over its history, Quantopian has raised $48.8M from investors such as Spark Capital, Khosla Ventures, Bessemer Venture Partners, Point72 Ventures, and Andreessen Horowitz
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The company has a two-sided market business model
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+The first side consists of algorithm-developer members who develop and test for free, focusing on algorithm development for factors that can be added to Quantopian's offerings to institutional investors.All members can compete against other members in a series of contests called the "Quantopian Open."Anyone can join the site and (optionally) enter the contests: no particular educational qualification nor work experience are required. Quantopian provides them with free data sources and tools, largely built in the Python programming language.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+The second side is institutional investors. Serving them will become the main focus of Quantopian. These members have their investments managed by the winning algorithms. Successful developer-members can get a royalty or commission from investor-members, who profit from the former's algorithm used with larger resources > $1M. Board member Andrew Parker claims that Quantopian is aiming for modest number of users and a large average revenue per user (ARPU); more like Bloomberg than Facebook.
+
+Previously the company provided brokerage integrations to individual investors. These integrations were continued by the community who started the open source project Zipline-Live.In 2018, the company announced the availability of an enterprise software product for asset managers, in partnership with FactSet.
 
 
 ## Landscape:
@@ -32,16 +30,16 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-* What are the other major companies in this domain?
+* Its primary competitors are other open source trading platforms, mainly Numerai, QuantConnect, & WorldQuant.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The company has funded individual algorithms with as much as $50,000,000. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+* In February 2020 Quantopian announced it would return investors' money due to the underperformance of its investment strategies.
 
 
 ## Recommendations
