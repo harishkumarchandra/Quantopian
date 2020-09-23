@@ -32,7 +32,7 @@ Its primary competitors are other open source trading platforms, mainly Numerai,
 
 ## Results
 
-The company has funded individual algorithms with as much as $50,000,000.In February 2020 Quantopian announced it would return investors' money due to the underperformance of its investment strategies.
+The company has funded individual algorithms with as much as $50,000,000. In February 2020 Quantopian announced it would return investors' money due to the underperformance of its investment strategies.
 
 ## Recommendations
 
