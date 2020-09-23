@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 * Name of company is Quantopian
-* It was the company incorporated 2011
+* It was incorporated on 2011
 * The founders of the company are John Fawcett and Jean Bredeche
 * The business model capitalizes on a trend jokingly dubbed "the latest DIY craze" by the Wall Street Journal.
 * Over its history, Quantopian has raised $48.8M from investors such as Spark Capital, Khosla Ventures, Bessemer Venture Partners, Point72 Ventures, and Andreessen Horowitz
